@@ -12,7 +12,7 @@ for numero in [0, 1, 2, 3, 4, 5]:
 
 print('')    
 
-for numero in range(6): # sequencia dp zero ao cinco
+for numero in range(6): # sequencia do zero ao cinco
     print(numero)    
 
 for numero in range(5,20): # sequencia iniciando no cinco e indo até o dezenove
